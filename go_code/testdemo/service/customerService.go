@@ -5,7 +5,7 @@ import (
 )
 
 /*
-	Author : 秦雅楠
+	Author : 廖怡
 */
 
 //CustomerService 完成对Customer的操作，包括增删改查

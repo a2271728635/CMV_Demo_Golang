@@ -5,7 +5,7 @@ import (
 )
 
 /*
-	Author : 秦雅楠
+	Author : 廖怡
 */
 
 //Customer 是一个客户信息结构体
